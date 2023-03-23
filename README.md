@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python, WebStack**
 
-- 💬 Ask me about **nothing lol**
+- 💬 Ask me about **my next project!**
 
-- ⚡ Fun fact **I dont know how to code :)**
+- ⚡ Fun fact **I "started" coding when I was 14**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
